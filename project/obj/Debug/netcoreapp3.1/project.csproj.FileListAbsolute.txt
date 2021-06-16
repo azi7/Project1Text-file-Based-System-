@@ -1,0 +1,39 @@
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\win10\OneDrive\سطح المكتب\project-master\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\win10\OneDrive\سطح المكتب\project-sda\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
